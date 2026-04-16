@@ -65,3 +65,4 @@ Implementación de Modulación por Ancho de Pulso (PWM) para controlar la intens
 1. `cd ~/practicas_embebidos/P4_RecorridoLedVectorPWM`
 2. `source ../P1_LedBlink/env_blink/bin/activate`
 3. `python P4_RecorridoLedVectorPWM.py`
+ 
